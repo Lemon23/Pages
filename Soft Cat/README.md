@@ -19,11 +19,12 @@
 ![Soft Cat官网封面页 · LOGO](pc/pc_logo.png)
 网站Logo我用了我自己的名字，并没有加入图片，因为这个字体已经很好看了。一个页面的Logo是很重要的，它是网站的门面，也是别人能否记住你是谁的决定性因素！
 这里我使用了`Pacifico`字体，并且在字母间作了间隔，目的是可以让用户更清楚的看到每个字母并记住它。
-{%codeblock lang:less index.css%}
+
+```
 font-family: Pacifico, Snell Roundhand;
 font-weight: 500;
 letter-spacing: 3px;
-{%endcodeblock%}
+```
 
 ### Nav
 ![Soft Cat官网封面页 · Nav](pc/pc_nav.png)
